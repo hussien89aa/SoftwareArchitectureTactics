@@ -1,3 +1,9 @@
+Quality attributes:
+
+1-If the GPS process  fails, notify the monitor deletes it, then the monitor will restart the gps in 1 secs.
+2-If the client app “Sending location process” fail to send data to server, monitor  detects it, and switches to backup server.
+
+
 Domain: Car Tracking System
 
 Source of stimulus:
