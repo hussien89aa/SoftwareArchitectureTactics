@@ -1,3 +1,7 @@
+Members: 
+* Bladimir Baez.
+* Hussein Talib.
+
 Instructions:
 -------------
 1. Download and extract the ZIP file.
