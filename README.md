@@ -9,6 +9,8 @@ Instructions:
 7. Then, execute the "CarApp.exe" process. It will show that 'Car App is working'.
 8. Open or execute "HeartBeatTactic.exe" and it will show the user port used and if everything is working properly it will keep displaying 'Im alive' every X seconds. After, the "CarServer" process will send the user locations every X seconds.
 
+(In order to execute the applications, you will need Windows.)
+
 **Quality attributes:**
 
 1. If the GPS process  fails, notify the monitor deletes it, then the monitor will restart the gps in 1 secs.
