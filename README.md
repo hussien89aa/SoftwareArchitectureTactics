@@ -2,7 +2,7 @@ Instructions:
 -------------
 1. Download and extract the ZIP file.
 2. Open the "Heartbeat tactic" folder.
-3. Open "FileApps" (where the executable files are available).
+3. Open "FinalApps" (where the executable files are available).
 4. Click and execute "CarServer.exe".
 5. It will prompt which server you want to work with; select "1" (Main server).
 6. If there's a Windows firewall alert, click "Allow Access", and the message in the command line will say "Main server is started. Server working".
