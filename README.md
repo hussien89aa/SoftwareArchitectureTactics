@@ -7,7 +7,7 @@ Instructions:
 5. It will prompt which server you want to work with; select "1" (Main server).
 6. If there's a Windows firewall alert, click "Allow Access", and the message in the command line will say "Main server is started. Server working".
 7. Then, execute the "CarApp.exe" process. It will show that 'Car App is working'.
-8. Open or execute "HeartBeatTactic.exe" and it will show the user port used and if everything is working properly it will keep displaying 'Im alive' every X seconds. After, the "CarServer" process will send the user locations every X seconds.
+8. Open or execute "HeartBeatTactic.exe" and it will show the user port used and if everything is working properly it will keep displaying 'Im alive' every 3 seconds. After, the "CarServer" process will send the user locations every 2 seconds.
 
 (In order to execute the applications, you will need Windows.)
 
