@@ -37,5 +37,5 @@ Failure is detected in 2 seconds. The process is restarted to make it working ag
 A process may fail due to internal circumstances.
 If there is some failure and the process is stopped, the heartbeat tactic comes into play.
 A failure may occur every 2-3 minutes.
-The system may be out for like X seconds/minutes.
+The system may be out for like 5 seconds.
 The system will notify whenever a process is stopped or resumed.
