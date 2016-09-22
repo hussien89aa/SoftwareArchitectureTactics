@@ -1,4 +1,4 @@
-![url](http://attach.alruabye.net/SoftwareArchitectureTactics/heartbeat.png)
+![url](http://attach.alruabye.net/SoftwareArchitectureTactics/pingecho.png)
 
 Instructions:
 -------------
