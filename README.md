@@ -1,5 +1,5 @@
 ![url](http://attach.alruabye.net/SoftwareArchitectureTactics/heartbeat.png)
-
+--
 Instructions:
 -------------
 1. Download and extract the ZIP file.
