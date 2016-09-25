@@ -8,8 +8,12 @@ Instructions:
 4. Click and execute "CarServer.exe".
 5. It will prompt which server you want to work with; select "1" (Main server).
 6. If there's a Windows firewall alert, click "Allow Access", and the message in the command line will say "Main server is started. Server working".
+7. Click and execute "CarServer.exe".
+8. It will prompt which server you want to work with; select "2" (Main server).
+9. If there's a Windows firewall alert, click "Allow Access", and the message in the command line will say "Main server is started. Server working".
 7. Then, execute the "CarApp.exe" process. It will show that 'Car App is working'.
 8. Open or execute "HeartBeatTactic.exe" and it will show the user port used and if everything is working properly it will keep displaying 'Im alive' every 3 seconds. After, the "CarServer" process will send the user locations every 2 seconds.
+
 
 (In order to execute the applications, you will need Windows.)
 
@@ -17,6 +21,10 @@ Instructions:
 
 1. If the GPS process  fails, notify the monitor deletes it, then the monitor will restart the gps in 1 secs.
 2. If the client app “Sending location process” fail to send data to server, monitor  detects it, and switches to backup server.
+
+Test cases
+1- Stop the "CarApp.exe" processand see how HeartBeatTactic willrestart it again
+2-Stop server 1 and see how Ping/Echo swwitvh to backup and read the synchronized data
 
 
 **Domain:** Car Tracking System

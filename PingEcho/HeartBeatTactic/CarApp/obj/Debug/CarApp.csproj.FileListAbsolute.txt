@@ -1,6 +1,0 @@
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarApp\bin\Debug\CarApp.exe.config
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarApp\bin\Debug\CarApp.exe
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarApp\bin\Debug\CarApp.pdb
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarApp\obj\Debug\CarApp.exe
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarApp\obj\Debug\CarApp.pdb
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarApp\obj\Debug\CarApp.csprojResolveAssemblyReference.cache

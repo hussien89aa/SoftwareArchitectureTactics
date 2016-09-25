@@ -1,0 +1,12 @@
+C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarServer\bin\Debug\CarServer.exe.config
+C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarServer\obj\Debug\CarServer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarServer\bin\Debug\CarServer.exe
+C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarServer\bin\Debug\CarServer.pdb
+C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarServer\obj\Debug\CarServer.exe
+C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\CarServer\obj\Debug\CarServer.pdb
+C:\Users\ASUS S550C\Desktop\github\SoftwareArchitectureTactics\test\PingEcho\HeartBeatTactic\CarServer\bin\Debug\CarServer.exe.config
+C:\Users\ASUS S550C\Desktop\github\SoftwareArchitectureTactics\test\PingEcho\HeartBeatTactic\CarServer\obj\Debug\CarServer.exe
+C:\Users\ASUS S550C\Desktop\github\SoftwareArchitectureTactics\test\PingEcho\HeartBeatTactic\CarServer\obj\Debug\CarServer.pdb
+C:\Users\ASUS S550C\Desktop\github\SoftwareArchitectureTactics\test\PingEcho\HeartBeatTactic\CarServer\bin\Debug\CarServer.exe
+C:\Users\ASUS S550C\Desktop\github\SoftwareArchitectureTactics\test\PingEcho\HeartBeatTactic\CarServer\bin\Debug\CarServer.pdb
+C:\Users\ASUS S550C\Desktop\github\SoftwareArchitectureTactics\test\PingEcho\HeartBeatTactic\CarServer\obj\Debug\CarServer.csprojResolveAssemblyReference.cache
