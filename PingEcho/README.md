@@ -24,9 +24,9 @@ Instructions:
 1. If the GPS process  fails, notify the monitor deletes it, then the monitor will restart the gps in 1 secs.
 2. If the client app “Sending location process” fail to send data to server, monitor  detects it, and switches to backup server.
 
-Test cases
-1- Stop the "CarApp.exe" processand see how HeartBeatTactic willrestart it again
-2-Stop server 1 and see how Ping/Echo swwitvh to backup and read the synchronized data
+**Test cases**
+###1- Stop the "CarApp.exe" processand see how HeartBeatTactic willrestart it again
+###2-Stop server 1 and see how Ping/Echo swwitvh to backup and read the synchronized data
 
 
 **Domain:** Car Tracking System
