@@ -2,7 +2,7 @@
 #Software Architecture Tactics
 ###We are implementing the Secure Session Managment tactic that manages the Car App login system from the server side. So, users can login to this web portal with their authetication credentials to manage the bus system by adding new bus or update the bus information.
 
-##Implementaion
+##Implementation
 ###1- We developed this database table for the login and account type and car information.
 ###Secure session
 ![url](http://attach.alruabye.net/SoftwareArchitectureTactics/SSMDataBase.png)
