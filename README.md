@@ -16,22 +16,15 @@
 ###2-  We build we portal to manage  users task and give for every account type specific tasks with the system
  
 ##----------------------------------------------------------------------
- ##Run the App
+##Run the App
 
- ###1-Install Visual Studio 2015
-
- ###2- Open the Authentication Folder
-
- ###3- Open Authentication file in Visual Studio
-
- ###4- Run the application
-
- ###5- Register new  users with different account type 
-
+###1-Install Visual Studio 2015
+###2- Open the Authentication Folder
+###3- Open Authentication file in Visual Studio
+###4- Run the application
+###5- Register new  users with different account type 
 ###6- Login with different account and see tasks for every account type
-
 ###Note the database is online, So the app already connect with it.
-
 ###see the branches
 ##----------------------------------------------------------------------
 --
