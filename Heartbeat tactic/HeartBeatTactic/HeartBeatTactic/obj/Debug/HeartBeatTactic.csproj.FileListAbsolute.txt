@@ -1,5 +1,0 @@
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\HeartBeatTactic\bin\Debug\HeartBeatTactic.exe.config
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\HeartBeatTactic\bin\Debug\HeartBeatTactic.exe
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\HeartBeatTactic\bin\Debug\HeartBeatTactic.pdb
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\HeartBeatTactic\obj\Debug\HeartBeatTactic.exe
-C:\Users\ASUS S550C\Desktop\SoftwareArticlureExample\HeartBeatTactic\HeartBeatTactic\obj\Debug\HeartBeatTactic.pdb
